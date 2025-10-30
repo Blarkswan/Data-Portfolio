@@ -26,4 +26,4 @@ Developed insights into customer churn drivers and business recommendations.
 
 ### 📬 Contact
 - **Email:** miridera.cm@gmail.com  
-- **LinkedIn:** (add your LinkedIn link here)
+- **LinkedIn:** www.linkedin.com/in/chidera-miriam-42355996?
